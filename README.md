@@ -1,7 +1,7 @@
-
 <div align="center">
   <img src="assets/divider.svg" width="100%" height="3"/>
 </div>
+
 <div align="center">
   <img src="assets/banner.svg" alt="Zemius" width="420"/>
   <br/>
@@ -17,7 +17,14 @@
   <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=qzemius&abbreviated=true&label=Views"/>
+  <img src="https://badges.strrl.dev/repos/qzemius"/>
+  <img src="https://badges.strrl.dev/contributions/all/qzemius"/>
 </div>
+
+<br/>
+
 <div align="center">
   <img src="assets/divider.svg" width="100%" height="3"/>
 </div>
